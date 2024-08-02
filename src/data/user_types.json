@@ -1,0 +1,180 @@
+[{
+  "type": "Surgical Attending",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_surgical_attending",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Surgical Resident",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_surgical_resident",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Surgical Tech",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_surgical_tech",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Surgical Tech Student",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_surgical_tech_student",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Surgical Assistant",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_surgical_assistant",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Physician Assistant",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_physician_assistant",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Operating Room Nurse",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_operating_room_nurse",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Nursing Student",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_nursing_student",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Other Physician",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_other_physician",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Other Medical Professional",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_other_medical_professional",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Medical Student",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_medical_student",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Pre-Med",
+  "created": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  },
+  "pricingBracket": "prod_pre-med",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.353Z"
+  }
+},
+{
+  "type": "Librarian",
+  "created": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  },
+  "pricingBracket": "prod_other",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  }
+},
+{
+  "type": "Educator",
+  "created": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  },
+  "pricingBracket": "prod_other",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  }
+},
+{
+  "type": "Patient",
+  "created": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  },
+  "pricingBracket": "prod_other",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  }
+},
+{
+  "type": "Rural Surgeon",
+  "created": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  },
+  "pricingBracket": "prod_rural_surgeon",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  }
+},
+{
+  "type": "Corporate",
+  "created": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  },
+  "pricingBracket": "prod_corporate",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  }
+},
+{
+  "type": "Other",
+  "created": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  },
+  "pricingBracket": "prod_other",
+  "updated": {
+    "$date": "2023-09-13T05:50:24.354Z"
+  }
+}]
